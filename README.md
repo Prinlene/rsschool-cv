@@ -1,0 +1,1 @@
+https://github.com/Prinlene/rsschool-cv/blob/gh-pages/cv.md
