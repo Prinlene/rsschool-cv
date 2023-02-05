@@ -5,10 +5,10 @@
 * GitHub: Prinlene
 
 ## About myself
-I enjoy everything, I have to learn. Poblems do nox exist for me. My strong sides: I love learning, I'm rather good in english (my texts and speeches aren't loquent and beautiful, but I can speak and be undrestood, can understand english-speaking people), I'm fond of computers.
+I enjoy everything, I have to learn. Poblems do not exist for me. My strong sides: I love learning, I'm rather good in english (my texts and speeches aren't loquent and beautiful, but I can speak and be undrestood, can understand english-speaking people), I'm fond of computers.
 
 ## My skills
-I have almost no skills, that you need (it's a pity, but truth), but I've learned how to use git. And base skills of HTML and CSS, of coure.
+I have almost no skills, that you need (it's a pity, but truth), but I've learned how to use git. And base skills of HTML and CSS, of course.
 Example? No problems! <html> ... </html>. But trust me: between this commands is located the most loquent and beautiful code))
 
 ## My experience

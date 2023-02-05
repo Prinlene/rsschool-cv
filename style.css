@@ -1,0 +1,9 @@
+:root {
+    --main-color: red;
+
+}
+
+.body {
+    background-color: rgba(195, 84, 0, 0.5);
+}
+
